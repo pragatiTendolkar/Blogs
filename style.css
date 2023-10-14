@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display&family=Sacramento&display=swap');
+
+body {
+    background-color: #ededed;
+    font-family: 'Montserrat', sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+.blog-heading{
+ font-family: 'Sacramento', cursive;
+ font-size: 50px;
+}
+.icon-search{
+    width: 0;
+}
+.form-control {
+    font-size: 20px;
+    padding: 18px 20px;
+}
+.list-group-item {
+    background: none;
+}
+.sidebar-inner-box {
+    background: #F9F9F9;
+}
+.custom-border-rad {
+    border-radius: 15px 15px 0px 0px;
+}
+.blog-number {
+    font-size: 32px;
+    font-weight: 900;
+    position: absolute;
+    left: -25px;
+    top: 10px;
+}
+.text-muted {
+    color: #adb5bd !important;
+    padding-top: 20px;
+    line-height: 40px;
+    font-weight: 100;
+}
+.list-item .list-group-item {
+    background: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: #242755;
+    padding: 11px;
+}
+.cat-list-head{
+    font-size: 23px;
+    font-weight: bold;
+    color: #242755;
+    padding-left: 18px;
+}
+.card-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #242755;
+}
+.input-group .btn {
+    position: relative;
+    z-index: 22;
+    left: -61px;
+    top: 14px;
+}
