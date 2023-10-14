@@ -68,3 +68,10 @@ html{
     left: -61px;
     top: 14px;
 }
+
+@media only screen and (max-width: 600px) { 
+    .sidebar-box { 
+        width: 90%;
+    margin: auto; 
+    } 
+} 
