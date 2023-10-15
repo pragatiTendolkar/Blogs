@@ -74,4 +74,8 @@ html{
         width: 90%;
     margin: auto; 
     } 
+    .search-bar{
+        display: none;
+    }
+
 } 
